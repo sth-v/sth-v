@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @sth-v
 - 🥃Computational Geometry problems
 - 🍸Solving Methods
-- 🏗 AEC 
-- 
+- 🏗 AEC specific development
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sth-v)](https://github.com/anuraghazra/github-readme-stats)
 
