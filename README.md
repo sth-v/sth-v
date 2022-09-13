@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @sth-v
+- Hi, I’m @sth-v
 - Processing
 - Computational Geometry problems
 - Solving Methods
