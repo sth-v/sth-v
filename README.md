@@ -4,7 +4,6 @@
 - Solving Methods
 - AEC specific development
 
-[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=sth-v&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sth-v&hide=jupyter%20notebook,html,c&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 
