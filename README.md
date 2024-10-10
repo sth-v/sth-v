@@ -1,6 +1,5 @@
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sth-v&hide=jupyter%20notebook,html&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!---
